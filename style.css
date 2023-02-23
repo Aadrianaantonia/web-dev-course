@@ -1,0 +1,35 @@
+body{
+	margin: 0px;
+
+}
+#header-content{
+	background-image: url(https://media.istockphoto.com/id/1354205520/photo/portrait-of-motivated-black-it-programmer-working-on-laptop-computer-male-specialist-create.jpg?s=612x612&w=is&k=20&c=9qK8UqE7-dD2Ew7TV0cY6n4Rl2vnOHXdQCDRqLgUcQk=);
+	background-size: cover;
+	height: 500px;
+	color: darkred;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#section-1{
+	background-color: #B5D5C5;
+	padding: 20px;
+	min-height: 400px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.card{
+	background-color: #ECA869;
+	width: 300px;
+	border: 5px solid black;
+	padding: 25px;
+	margin: 20px;
+	text-align: center;
+
+}
